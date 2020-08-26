@@ -7,5 +7,6 @@ public class Gitsample {
 
 	
 System.out.println("learning git");
+System.out.println("learning Myself");
 }
 }
